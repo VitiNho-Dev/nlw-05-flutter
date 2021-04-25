@@ -11,3 +11,14 @@
   <img alt="Question02" src="github/question_2.png" width="25%">
   <img alt="Result" src="github/result.png" width="25%">
 </p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Flutter](https://flutter.dev)
+- [share_plus: ^2.0.1](https://pub.dev/packages/share_plus)
+
+## 💻 Projeto
+
+O DevQuiz é um aplicativo de questões para estudar Flutter respondendo perguntas referentes a Tecnologia.
